@@ -4,7 +4,7 @@
     <ul class="nav-list">
       <li id="a"><a href="/">首頁</a></li>
       <li id="a"><a href="aboutus">關於我們</a></li>
-      <li id="a"><a href="product2">產品</a></li>
+      <li id="a"><a href="product">產品</a></li>
       <li id="a"><a href="contactus">聯繫我們</a></li>
     </ul>
   </div>

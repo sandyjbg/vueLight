@@ -37,7 +37,7 @@ body,h1,h2,h3,h4,h5,h6,img,a,p,div,.timeline,.timeline-container,.timeline-conte
     padding: 0;
 }
 .background {
-  background-image: url(../assets/123.jpg); /* 设置背景图片的路径 */
+  background-image: url(../assets/123.jpg); 
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
@@ -45,7 +45,6 @@ body,h1,h2,h3,h4,h5,h6,img,a,p,div,.timeline,.timeline-container,.timeline-conte
   height: 100vh;
   display: flex;
   align-items: center;
-  height: 100vh;
 }
 .overlay {
   position: absolute;

@@ -31,13 +31,13 @@ const routes = [
         component: () =>import( "../views/product.vue")
       },
       {
-        path: "/png1",
-        name: "png1",
-        component: () =>import( "../views/png1.vue")
+        path: "/png",
+        name: "png",
+        component: () =>import( "../views/png.vue")
       },
-      {path: '/product2',
-      name: 'product2',
-      component: () => import('../views/product2.vue')
+      {path: '/product',
+      name: 'product',
+      component: () => import('../views/product.vue')
     },
     {path: '/contactus',
       name: 'contactus',
